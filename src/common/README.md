@@ -1,4 +1,6 @@
 ### [all](../)/
 
-* ### [common](./common)
-* ### [common](./duplicate)
+* [duplicate](./duplicate)
+* [original](./original)
+* [property](./property)
+* [ternar](./ternar)
