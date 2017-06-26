@@ -1,5 +1,5 @@
 export array from './array';
 export common from './common';
-export function from './function';
+export func from './func';
 export number from './number';
 export promise from './promise';

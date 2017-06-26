@@ -1,0 +1,1 @@
+export isFunc from './isFunc';
