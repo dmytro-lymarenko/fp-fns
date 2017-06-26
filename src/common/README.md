@@ -1,4 +1,4 @@
-### [all](../)/
+### [lib](../)/
 
 * [duplicate](./duplicate)
 * [original](./original)
