@@ -1,8 +1,8 @@
 /**
  * [original description]
- * @param  {[type]} data [description]
+ * @param  {[type]} arg [description]
  * @return {[type]}      [description]
  */
-export default function original(data) {
-	return data;
+export default function original(arg) {
+	return arg;
 }
