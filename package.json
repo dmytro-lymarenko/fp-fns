@@ -1,11 +1,11 @@
 {
-  "name": "functional-programming",
-  "version": "1.0.4",
+  "name": "fp-fns",
+  "version": "0.0.2",
   "description": "Functional programing",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dmytro-lymarenko/functional-programming.git"
+    "url": "https://github.com/dmytro-lymarenko/fp-fns.git"
   },
   "scripts": {
     "test": "jest --env=node",
